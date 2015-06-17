@@ -1,0 +1,18 @@
+/* CSS */
+.intro {
+    position: relative;
+    top: 150px;
+}
+
+.intro h1 {
+    text-align: center;
+}
+
+.intro h5 {
+    text-align: center;
+}
+
+.about {
+    position: relative;
+    top: 250px;
+}
